@@ -1,0 +1,6 @@
+{
+  "name": "Qset maker",
+  "description": "Scan PDF question banks, crop specific questions with OCR recognition, and merge them into high-quality printable PDF question sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
